@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/burn-global-projections/static/css/main.92c8d4eb.css",
-    "main.js": "/burn-global-projections/static/js/main.ec1d07b6.js",
-    "index.html": "/burn-global-projections/index.html",
-    "main.92c8d4eb.css.map": "/burn-global-projections/static/css/main.92c8d4eb.css.map",
-    "main.ec1d07b6.js.map": "/burn-global-projections/static/js/main.ec1d07b6.js.map"
+    "main.css": "/burn-projections/static/css/main.92c8d4eb.css",
+    "main.js": "/burn-projections/static/js/main.ec1d07b6.js",
+    "index.html": "/burn-projections/index.html",
+    "main.92c8d4eb.css.map": "/burn-projections/static/css/main.92c8d4eb.css.map",
+    "main.ec1d07b6.js.map": "/burn-projections/static/js/main.ec1d07b6.js.map"
   },
   "entrypoints": [
     "static/css/main.92c8d4eb.css",
