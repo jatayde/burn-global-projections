@@ -2,7 +2,7 @@
   "name": "world-map-stats",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jatayde.github.io/clp-global-projections/",
+  "homepage": "https://jatayde.github.io/burn-global-projections/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",
