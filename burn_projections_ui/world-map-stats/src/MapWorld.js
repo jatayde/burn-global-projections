@@ -35,8 +35,9 @@ const ALIASES = {
  * - data: {
  *     [country: string]: {
  *       [year: string]: {
- *         clp_estimate: number | null,
- *         daly_estimate: number | null
+ *         incidence: number | null,
+ *         daly: number | null,
+ *         cost: number | null,
  *       }
  *     }
  *   }
@@ -45,9 +46,9 @@ const ALIASES = {
  * Example data:
  * {
  *   "Afghanistan": {
- *     "2030": { "clp_estimate": 12345, "daly_estimate": 67890 },
- *     "2040": { "clp_estimate": 13000, "daly_estimate": 71000 },
- *     "2050": { "clp_estimate": 14200, "daly_estimate": 76000 }
+ *     "2030": { "incidence": 12345, "daly": 67890, "cost": 4000 },
+ *     "2040": { "incidence": 13000, "daly": 71000, "cost": 4000 },
+ *     "2050": { "incidence": 14200, "daly": 76000, "cost": 4000 }
  *   }
  * }
  */
@@ -68,7 +69,7 @@ export default function MapWorld({ year, data, title = "" }) {
   const [minVal, maxVal] = useMemo(() => {
     const vals = Object.values(perYear)
       .map((d) => {
-        const raw = d?.clp_estimate;
+        const raw = d?.incidence;
         if (!raw) return NaN;
 
         // Extract the first number before parentheses or spaces
@@ -136,7 +137,7 @@ export default function MapWorld({ year, data, title = "" }) {
                 p.FORMAL_EN;
 
               const row = perYear[name];
-              const val = row?.clp_number;
+              const val = row?.incidence_number;
               const color = getColor(val);
 
               return (
@@ -148,9 +149,9 @@ export default function MapWorld({ year, data, title = "" }) {
                       x: e.clientX,
                       y: e.clientY,
                       name,
-                      clp: row?.clp_estimate,
-                      daly: row?.daly_estimate,
-                      cost: row?.estimated_cost,
+                      incidence: row?.incidence,
+                      daly: row?.daly,
+                      cost: row?.cost,
                     })
                   }
                   onMouseMove={(e) =>
@@ -188,7 +189,7 @@ export default function MapWorld({ year, data, title = "" }) {
           <strong>{tip.name}</strong>
           <div style={{ marginTop: 4 }}>
             <div>
-              <em>CL/P Estimate:</em> {tip.clp || "NaN"}
+              <em>CL/P Estimate:</em> {tip.incidence || "NaN"}
             </div>
             <div>
               <em>DALY Estimate:</em> {tip.daly || "NaN"}

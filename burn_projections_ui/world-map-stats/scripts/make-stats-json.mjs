@@ -26,23 +26,23 @@ for (const row of rows) {
 
   stats[country] = {};
   for (const year of years) {
-    const clpCol = `Burn Estimated ${year} (95% CI)`;
+    const incidenceCol = `Burn Estimated ${year} (95% CI)`;
     const dalyCol = `DALY Burn Estimated ${year} (95% CI)`;
     const costCol = `$ Total Estimate (95% CI)`;
 
-    const clp = row[clpCol];
+    const incidence = row[incidenceCol];
     const daly = row[dalyCol];
     const cost = row[costCol];
 
-    const clpNum = parseFirstNumber(clp);
+    const incidenceNum = parseFirstNumber(incidence);
     const dalyNum = parseFirstNumber(daly);
 
     stats[country][year] = {
-      clp_estimate: clp,
-      daly_estimate: daly,
-      clp_number: clpNum, // numeric-only value
+      incidence: incidence,
+      daly: daly,
+      incidence_number: incidenceNum, // numeric-only value
       daly_number: dalyNum,
-      estimated_cost: cost,
+      cost: cost,
     };
   }
 }
