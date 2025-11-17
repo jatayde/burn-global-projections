@@ -2,7 +2,7 @@
 import xlsx from "xlsx";
 import fs from "fs";
 
-const INPUT = "public/Summary Sheet_Burn.xlsx";
+const INPUT = "public/FinalBurnTables_Julia.xlsx";
 const OUTPUT = "src/data/estimatedStats.json";
 
 const wb = xlsx.readFile(INPUT);

@@ -19,7 +19,7 @@ export default function App() {
       <header style={{ textAlign: "center", padding: 16 }}>
         <h2 style={{ margin: 0 }}>
           Projecting the Incidence of Burn Injuries and its Associated Economic
-          Burden for 173 Countries
+          Burden for 196 Countries
         </h2>
         <h4>
           The Department of Plastic and Reconstructive Surgery, The Ohio State
