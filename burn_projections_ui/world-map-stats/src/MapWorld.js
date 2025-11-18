@@ -16,7 +16,7 @@ const ALIASES = {
   "North Macedonia": "Macedonia",
   "Syrian Arab Republic": "Syria",
   "Viet Nam": "Vietnam",
-  "Lao PDR": "Laos",
+  "Lao People's Democratic Republic": "Laos",
   "Kyrgyz Republic": "Kyrgyzstan",
   Turkiye: "Turkey",
   "South Sudan": "S. Sudan",
@@ -24,9 +24,13 @@ const ALIASES = {
   "Equatorial Guinea": "Eq. Guinea",
   Somalia: "Somaliland",
   "Bosnia and Herzegovina": "Bosnia and Herz.",
-  "Korea, Rep": "South Korea",
+  "Republic of Korea": "South Korea",
   "Brunei Darussalam": "Brunei",
   "Dominican Republic": "Dominican Rep.",
+  "Russian Federation": "Russia",
+  "Iran (Islamic Republic of)": "Iran",
+  "Bolivia (Plurinational State of)": "Bolivia",
+  "United Republic of Tanzania": "Tanzania",
 };
 
 /**
@@ -189,7 +193,7 @@ export default function MapWorld({ year, data, title = "" }) {
           <strong>{tip.name}</strong>
           <div style={{ marginTop: 4 }}>
             <div>
-              <em>CL/P Estimate:</em> {tip.incidence || "NaN"}
+              <em>Burn Estimate:</em> {tip.incidence || "NaN"}
             </div>
             <div>
               <em>DALY Estimate:</em> {tip.daly || "NaN"}
