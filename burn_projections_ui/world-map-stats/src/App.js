@@ -2,10 +2,11 @@ import React, { useState } from "react";
 import estimatedStats from "./data/estimatedStats.json"; // { country: { "2030": {...}, "2040": {...}, "2050": {...} } }
 import MapWorld from "./MapWorld";
 
-const YEARS = ["2030", "2040", "2050"];
+const YEARS = ["2030", "2040", "2050", "Per Capita"];
 
 export default function App() {
   const [year, setYear] = useState("2030");
+  // const [isPerCapita, setIsPerCapita] = useState(false);
 
   return (
     <div
@@ -21,10 +22,6 @@ export default function App() {
           Projecting the Incidence of Burn Injuries and its Associated Economic
           Burden for 196 Countries
         </h2>
-        <h4>
-          The Department of Plastic and Reconstructive Surgery, The Ohio State
-          University Wexner Medical Center
-        </h4>
       </header>
 
       {/* Tabs */}
@@ -87,6 +84,21 @@ export default function App() {
         }}
       >
         95% Confidence Interval
+      </div>
+      <div
+        style={{
+          position: "fixed",
+          bottom: "10px",
+          right: "10px",
+          fontSize: "0.85em",
+          color: "#555",
+          backgroundColor: "rgba(255, 255, 255, 0.7)",
+          padding: "4px 8px",
+          borderRadius: "6px",
+        }}
+      >
+        Department of Plastic and Reconstructive Surgery, College of Medicine,
+        The Ohio State University Wexner Medical Center
       </div>
     </div>
   );

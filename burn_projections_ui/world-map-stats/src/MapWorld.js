@@ -56,7 +56,7 @@ const ALIASES = {
  *   }
  * }
  */
-export default function MapWorld({ year, data, title = "" }) {
+export default function MapWorld({ year, data }) {
   const [tip, setTip] = useState(null);
 
   const perYear = useMemo(() => {
@@ -91,27 +91,60 @@ export default function MapWorld({ year, data, title = "" }) {
     return [Math.min(...vals), Math.max(...vals)];
   }, [perYear]);
 
-  function getColor(val) {
-    if (!Number.isFinite(val)) return "#e5e5e5"; // gray for missing
-    if (maxVal === minVal) return "#9AC5B7"; // midpoint fallback
+  function getColor(rawVal, opts = {}) {
+    const { min = minVal, max = maxVal, isPerCapita = false } = opts;
 
-    // Log-scale normalization to handle wide range
-    const safeVal = Math.max(val, 1);
-    const safeMin = Math.max(minVal, 1);
-    const safeMax = Math.max(maxVal, 1);
-    const ratio = Math.log10(safeVal / safeMin) / Math.log10(safeMax / safeMin);
+    // Coerce everything to numbers in case they're strings (e.g. from .toFixed)
+    const val = Number(rawVal);
+    const minV = Number(min);
+    const maxV = Number(max);
 
-    // Custom light→dark blue-green gradient
-    if (ratio < 0.1) return "#EEF5F0";
-    if (ratio < 0.2) return "#DBEDE4";
-    if (ratio < 0.3) return "#C7E1D5";
-    if (ratio < 0.4) return "#B1D3C6";
-    if (ratio < 0.5) return "#9AC5B7";
-    if (ratio < 0.6) return "#82B4A8";
-    if (ratio < 0.7) return "#6AA19A";
-    if (ratio < 0.8) return "#538A90";
-    if (ratio < 0.9) return "#3E708A";
-    return "#2B4F82";
+    // Missing / bad data → gray
+    if (
+      !Number.isFinite(val) ||
+      !Number.isFinite(minV) ||
+      !Number.isFinite(maxV)
+    ) {
+      return "#e5e5e5";
+    }
+
+    // All same value → mid color
+    if (maxV === minV) return "#9AC5B7";
+
+    let ratio;
+
+    if (isPerCapita) {
+      // LINEAR scale for per-capita (small, tight ranges)
+      const clamped = Math.min(Math.max(val, minV), maxV);
+      ratio = (clamped - minV) / (maxV - minV); // 0 → 1
+    } else {
+      // LOG scale for raw incidence (wide range)
+      const eps = 1e-9; // avoid log(0)
+      const safeVal = Math.max(val, eps);
+      const safeMin = Math.max(minV, eps);
+      const safeMax = Math.max(maxV, eps);
+      ratio = Math.log10(safeVal / safeMin) / Math.log10(safeMax / safeMin);
+      ratio = Math.min(Math.max(ratio, 0), 1); // clamp
+    }
+
+    if (!isPerCapita) {
+      if (ratio < 0.1) return "#EEF5F0";
+      if (ratio < 0.2) return "#DBEDE4";
+      if (ratio < 0.3) return "#C7E1D5";
+      if (ratio < 0.4) return "#B1D3C6";
+      if (ratio < 0.5) return "#9AC5B7";
+      if (ratio < 0.6) return "#82B4A8";
+      if (ratio < 0.7) return "#6AA19A";
+      if (ratio < 0.8) return "#538A90";
+      if (ratio < 0.9) return "#3E708A";
+      return "#2B4F82";
+    } else {
+      if (ratio < 0.2) return "#E3F2F0"; // very light
+      if (ratio < 0.4) return "#B9DDD4";
+      if (ratio < 0.6) return "#78B9AA";
+      if (ratio < 0.8) return "#5AA095";
+      return "#2F6F80"; // darkest
+    }
   }
 
   return (
@@ -142,22 +175,31 @@ export default function MapWorld({ year, data, title = "" }) {
 
               const row = perYear[name];
               const val = row?.incidence_number;
-              const color = getColor(val);
+              const color =
+                year === "Per Capita"
+                  ? getColor(val, {
+                      isPerCapita: true,
+                      min: 1,
+                      max: 55,
+                    })
+                  : getColor(val);
 
               return (
                 <Geography
                   key={geo.rsmKey}
                   geography={geo}
-                  onMouseEnter={(e) =>
-                    setTip({
-                      x: e.clientX,
-                      y: e.clientY,
-                      name,
-                      incidence: row?.incidence,
-                      daly: row?.daly,
-                      cost: row?.cost,
-                    })
-                  }
+                  onMouseEnter={(e) => {
+                    if (row?.incidence) {
+                      setTip({
+                        x: e.clientX,
+                        y: e.clientY,
+                        name,
+                        incidence: row?.incidence,
+                        daly: row?.daly,
+                        cost: row?.cost,
+                      });
+                    }
+                  }}
                   onMouseMove={(e) =>
                     setTip((t) => t && { ...t, x: e.clientX, y: e.clientY })
                   }
@@ -192,15 +234,27 @@ export default function MapWorld({ year, data, title = "" }) {
         >
           <strong>{tip.name}</strong>
           <div style={{ marginTop: 4 }}>
-            <div>
-              <em>Burn Estimate:</em> {tip.incidence || "NaN"}
-            </div>
-            <div>
-              <em>DALY Estimate:</em> {tip.daly || "NaN"}
-            </div>
-            <div>
-              <em>Estimated Cost:</em> {tip.cost ? `$${tip.cost}` : "NaN"}
-            </div>
+            {tip.incidence && (
+              <div>
+                <em>
+                  {year === "Per Capita"
+                    ? "Burn Estimate Per 10,000:"
+                    : "Burn Estimate:"}
+                </em>{" "}
+                {tip.incidence}
+              </div>
+            )}
+            {tip.daly && (
+              <div>
+                <em>DALY Estimate:</em> {tip.daly}
+              </div>
+            )}
+
+            {tip.cost && (
+              <div>
+                <em>Estimated Cost:</em> ${tip.cost}
+              </div>
+            )}
           </div>
         </div>
       )}

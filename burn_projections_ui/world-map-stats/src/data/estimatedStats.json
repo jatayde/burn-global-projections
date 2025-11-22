@@ -20,6 +20,10 @@
       "incidence_number": 35916,
       "daly_number": 53410,
       "cost": "70,391,035 (51,485,015-96,815,772)"
+    },
+    "Per Capita": {
+      "incidence": 4.7,
+      "incidence_number": "4.693745076"
     }
   },
   "Albania": {
@@ -43,6 +47,10 @@
       "incidence_number": 3937,
       "daly_number": 1519,
       "cost": "48,702,582 (33,485,653-69,084,990)"
+    },
+    "Per Capita": {
+      "incidence": 20.4,
+      "incidence_number": "20.36814211"
     }
   },
   "Algeria": {
@@ -66,6 +74,10 @@
       "incidence_number": 37570,
       "daly_number": 75854,
       "cost": "887,786,107 (604,100,345-1,137,138,652)"
+    },
+    "Per Capita": {
+      "incidence": 6.5,
+      "incidence_number": "6.526629254"
     }
   },
   "American Samoa": {
@@ -89,6 +101,10 @@
       "incidence_number": 27,
       "daly_number": 16,
       "cost": "425,753 (332,422-543,226)"
+    },
+    "Per Capita": {
+      "incidence": 7.6,
+      "incidence_number": "7.599306706"
     }
   },
   "Andorra": {
@@ -112,6 +128,10 @@
       "incidence_number": 110,
       "daly_number": 56,
       "cost": "3,142,961 (1,693,632-5,233,023)"
+    },
+    "Per Capita": {
+      "incidence": 15.5,
+      "incidence_number": "15.49228929"
     }
   },
   "Angola": {
@@ -135,6 +155,10 @@
       "incidence_number": 152174,
       "daly_number": 273034,
       "cost": "556,271,107 (405,752,172-833,364,043)"
+    },
+    "Per Capita": {
+      "incidence": 20.6,
+      "incidence_number": "20.59237239"
     }
   },
   "Antigua and Barbuda": {
@@ -158,6 +182,10 @@
       "incidence_number": 350,
       "daly_number": 178,
       "cost": "5,577,318 (4,305,133-7,214,089)"
+    },
+    "Per Capita": {
+      "incidence": 40,
+      "incidence_number": "40.00976229"
     }
   },
   "Argentina": {
@@ -181,6 +209,10 @@
       "incidence_number": 237341,
       "daly_number": 80466,
       "cost": "2,119,491,908 (1,415,358,960-3,140,469,838)"
+    },
+    "Per Capita": {
+      "incidence": 51.9,
+      "incidence_number": "51.90316021"
     }
   },
   "Armenia": {
@@ -204,6 +236,10 @@
       "incidence_number": 4965,
       "daly_number": 3199,
       "cost": "78,172,359 (60,657,850-102,512,824)"
+    },
+    "Per Capita": {
+      "incidence": 20.8,
+      "incidence_number": "20.7929765"
     }
   },
   "Australia": {
@@ -227,6 +263,10 @@
       "incidence_number": 66293,
       "daly_number": 22950,
       "cost": "1,354,638,961 (791,682,133-2,166,455,248)"
+    },
+    "Per Capita": {
+      "incidence": 22.2,
+      "incidence_number": "22.17189342"
     }
   },
   "Austria": {
@@ -250,6 +290,10 @@
       "incidence_number": 11241,
       "daly_number": 4789,
       "cost": "383,151,468 (237,860,234-598,177,767)"
+    },
+    "Per Capita": {
+      "incidence": 14.8,
+      "incidence_number": "14.77965747"
     }
   },
   "Azerbaijan": {
@@ -273,6 +317,10 @@
       "incidence_number": 46746,
       "daly_number": 37296,
       "cost": "716,569,013 (584,025,094-901,207,378)"
+    },
+    "Per Capita": {
+      "incidence": 44.3,
+      "incidence_number": "44.27027566"
     }
   },
   "Bahamas": {
@@ -296,6 +344,10 @@
       "incidence_number": 1716,
       "daly_number": 1108,
       "cost": "36,860,585 (28,884,672-46,327,863)"
+    },
+    "Per Capita": {
+      "incidence": 43.3,
+      "incidence_number": "43.27105196"
     }
   },
   "Bahrain": {
@@ -319,6 +371,10 @@
       "incidence_number": 1298,
       "daly_number": 1136,
       "cost": "51,362,639 (41,760,204-64,057,450)"
+    },
+    "Per Capita": {
+      "incidence": 6.3,
+      "incidence_number": "6.329025997"
     }
   },
   "Bangladesh": {
@@ -342,6 +398,10 @@
       "incidence_number": 120798,
       "daly_number": 197596,
       "cost": "962,550,948 (726,286,116-1,174,669,047)"
+    },
+    "Per Capita": {
+      "incidence": 5.8,
+      "incidence_number": "5.802579106"
     }
   },
   "Barbados": {
@@ -365,6 +425,10 @@
       "incidence_number": 611,
       "daly_number": 323,
       "cost": "9,171,030 (6,867,560-12,136,522)"
+    },
+    "Per Capita": {
+      "incidence": 25,
+      "incidence_number": "24.97815128"
     }
   },
   "Belarus": {
@@ -388,6 +452,10 @@
       "incidence_number": 22164,
       "daly_number": 20038,
       "cost": "898,303,057 (737,779,304-1,112,925,983)"
+    },
+    "Per Capita": {
+      "incidence": 32.1,
+      "incidence_number": "32.10231665"
     }
   },
   "Belgium": {
@@ -411,6 +479,10 @@
       "incidence_number": 17731,
       "daly_number": 7732,
       "cost": "582,476,593 (385,850,298-871,113,305)"
+    },
+    "Per Capita": {
+      "incidence": 16.7,
+      "incidence_number": "16.7274016"
     }
   },
   "Belize": {
@@ -434,6 +506,10 @@
       "incidence_number": 1643,
       "daly_number": 721,
       "cost": "8,494,820 (6,641,125-10,874,499)"
+    },
+    "Per Capita": {
+      "incidence": 32.6,
+      "incidence_number": "32.61236508"
     }
   },
   "Benin": {
@@ -457,6 +533,10 @@
       "incidence_number": 34354,
       "daly_number": 71981,
       "cost": "143,303,734 (63,041,939-211,431,719)"
+    },
+    "Per Capita": {
+      "incidence": 14.1,
+      "incidence_number": "14.14601112"
     }
   },
   "Bermuda": {
@@ -480,6 +560,10 @@
       "incidence_number": 116,
       "daly_number": 41,
       "cost": "7,059,806 (4,222,475-10,963,829)"
+    },
+    "Per Capita": {
+      "incidence": 23.8,
+      "incidence_number": "23.81081423"
     }
   },
   "Bhutan": {
@@ -503,6 +587,10 @@
       "incidence_number": 503,
       "daly_number": 652,
       "cost": "8,297,017 (6,027,146-11,501,981)"
+    },
+    "Per Capita": {
+      "incidence": 5.9,
+      "incidence_number": "5.867874092"
     }
   },
   "Bolivia (Plurinational State of)": {
@@ -526,6 +614,10 @@
       "incidence_number": 40934,
       "daly_number": 25397,
       "cost": "214,222,758 (170,721,924-265,445,344)"
+    },
+    "Per Capita": {
+      "incidence": 21.7,
+      "incidence_number": "21.74123008"
     }
   },
   "Bosnia and Herzegovina": {
@@ -549,6 +641,10 @@
       "incidence_number": 4737,
       "daly_number": 2235,
       "cost": "66,841,866 (44,964,633-97,668,128)"
+    },
+    "Per Capita": {
+      "incidence": 19,
+      "incidence_number": "18.99456623"
     }
   },
   "Botswana": {
@@ -572,6 +668,10 @@
       "incidence_number": 6448,
       "daly_number": 10089,
       "cost": "129,641,606 (104,761,510-168,497,694)"
+    },
+    "Per Capita": {
+      "incidence": 15.9,
+      "incidence_number": "15.8708072"
     }
   },
   "Brazil": {
@@ -595,6 +695,10 @@
       "incidence_number": 324280,
       "daly_number": 161920,
       "cost": "3,611,289,617 (2,799,525,550-4,565,320,409)"
+    },
+    "Per Capita": {
+      "incidence": 26.1,
+      "incidence_number": "26.05195272"
     }
   },
   "Brunei Darussalam": {
@@ -618,6 +722,10 @@
       "incidence_number": 1299,
       "daly_number": 520,
       "cost": "42,322,229 (29,776,142-59,892,511)"
+    },
+    "Per Capita": {
+      "incidence": 21.9,
+      "incidence_number": "21.8741121"
     }
   },
   "Bulgaria": {
@@ -641,6 +749,10 @@
       "incidence_number": 10274,
       "daly_number": 6480,
       "cost": "355,281,129 (279,842,905-455,122,455)"
+    },
+    "Per Capita": {
+      "incidence": 15.7,
+      "incidence_number": "15.73595616"
     }
   },
   "Burkina Faso": {
@@ -664,6 +776,10 @@
       "incidence_number": 58448,
       "daly_number": 152873,
       "cost": "217,512,622 (155,016,903-340,486,373)"
+    },
+    "Per Capita": {
+      "incidence": 25,
+      "incidence_number": "24.97409091"
     }
   },
   "Burundi": {
@@ -687,6 +803,10 @@
       "incidence_number": 59994,
       "daly_number": 130249,
       "cost": "36,433,955 (25,182,271-58,821,899)"
+    },
+    "Per Capita": {
+      "incidence": 17.5,
+      "incidence_number": "17.52949554"
     }
   },
   "Cabo Verde": {
@@ -710,6 +830,10 @@
       "incidence_number": 956,
       "daly_number": 770,
       "cost": "8,948,602 (6,762,130-11,202,984)"
+    },
+    "Per Capita": {
+      "incidence": 8.3,
+      "incidence_number": "8.325212115"
     }
   },
   "Cambodia": {
@@ -733,6 +857,10 @@
       "incidence_number": 17861,
       "daly_number": 16787,
       "cost": "113,646,875 (85,936,371-161,564,828)"
+    },
+    "Per Capita": {
+      "incidence": 13.4,
+      "incidence_number": "13.40633214"
     }
   },
   "Cameroon": {
@@ -756,6 +884,10 @@
       "incidence_number": 68134,
       "daly_number": 112938,
       "cost": "329,421,253 (151,488,053-466,996,993)"
+    },
+    "Per Capita": {
+      "incidence": 15.1,
+      "incidence_number": "15.14937761"
     }
   },
   "Canada": {
@@ -779,6 +911,10 @@
       "incidence_number": 63442,
       "daly_number": 31471,
       "cost": "1,799,524,975 (1,199,958,262-2,753,003,537)"
+    },
+    "Per Capita": {
+      "incidence": 19.5,
+      "incidence_number": "19.51804286"
     }
   },
   "Central African Republic": {
@@ -802,6 +938,10 @@
       "incidence_number": 20646,
       "daly_number": 77954,
       "cost": "27,338,430 (18,726,366-43,677,712)"
+    },
+    "Per Capita": {
+      "incidence": 12.1,
+      "incidence_number": "12.13895984"
     }
   },
   "Chad": {
@@ -825,6 +965,10 @@
       "incidence_number": 47011,
       "daly_number": 115821,
       "cost": "170,024,434 (79,977,614-241,090,395)"
+    },
+    "Per Capita": {
+      "incidence": 52.1,
+      "incidence_number": "52.08900774"
     }
   },
   "Chile": {
@@ -848,6 +992,10 @@
       "incidence_number": 96108,
       "daly_number": 37373,
       "cost": "1,183,306,891 (815,989,586-1,686,770,593)"
+    },
+    "Per Capita": {
+      "incidence": 7.2,
+      "incidence_number": "7.172405393"
     }
   },
   "China": {
@@ -871,6 +1019,10 @@
       "incidence_number": 797755,
       "daly_number": 442427,
       "cost": "14,520,222,515 (11,457,464,090-18,376,001,402)"
+    },
+    "Per Capita": {
+      "incidence": 30.1,
+      "incidence_number": "30.11430139"
     }
   },
   "Colombia": {
@@ -894,6 +1046,10 @@
       "incidence_number": 168435,
       "daly_number": 65279,
       "cost": "1,175,828,776 (851,158,217-1,584,457,028)"
+    },
+    "Per Capita": {
+      "incidence": 29.3,
+      "incidence_number": "29.25768828"
     }
   },
   "Comoros": {
@@ -917,6 +1073,10 @@
       "incidence_number": 3794,
       "daly_number": 4787,
       "cost": "8,205,101 (6,373,604-10,661,129)"
+    },
+    "Per Capita": {
+      "incidence": 30.5,
+      "incidence_number": "30.51649542"
     }
   },
   "Congo, Dem Rep": {
@@ -940,6 +1100,10 @@
       "incidence_number": 434776,
       "daly_number": 1283409,
       "cost": "320,040,401 (222,793,264-697,969,535)"
+    },
+    "Per Capita": {
+      "incidence": 17.4,
+      "incidence_number": "17.38153557"
     }
   },
   "Congo": {
@@ -963,6 +1127,10 @@
       "incidence_number": 22980,
       "daly_number": 35109,
       "cost": "67,010,215 (50,333,476-100,565,069)"
+    },
+    "Per Capita": {
+      "incidence": 30.6,
+      "incidence_number": "30.58193319"
     }
   },
   "Costa Rica": {
@@ -986,6 +1154,10 @@
       "incidence_number": 14963,
       "daly_number": 5107,
       "cost": "155,265,301 (109,053,590-215,153,805)"
+    },
+    "Per Capita": {
+      "incidence": 15.9,
+      "incidence_number": "15.92628333"
     }
   },
   "Croatia": {
@@ -1009,6 +1181,10 @@
       "incidence_number": 5020,
       "daly_number": 2243,
       "cost": "151,609,059 (109,734,800-209,770,587)"
+    },
+    "Per Capita": {
+      "incidence": 24.9,
+      "incidence_number": "24.92687758"
     }
   },
   "Cuba": {
@@ -1032,6 +1208,10 @@
       "incidence_number": 25337,
       "daly_number": 11397,
       "cost": "149,727,128 (101,704,855-210,080,878)"
+    },
+    "Per Capita": {
+      "incidence": 3.9,
+      "incidence_number": "3.887913473"
     }
   },
   "Cyprus": {
@@ -1055,6 +1235,10 @@
       "incidence_number": 2216,
       "daly_number": 1010,
       "cost": "58,185,638 (40,270,588-84,837,138)"
+    },
+    "Per Capita": {
+      "incidence": 17.5,
+      "incidence_number": "17.46677826"
     }
   },
   "Czechia": {
@@ -1078,6 +1262,10 @@
       "incidence_number": 22725,
       "daly_number": 8661,
       "cost": "533,207,370 (356,907,627-772,973,793)"
+    },
+    "Per Capita": {
+      "incidence": 28.6,
+      "incidence_number": "28.56547836"
     }
   },
   "North Korea": {
@@ -1101,6 +1289,10 @@
       "incidence_number": 9430,
       "daly_number": 13987,
       "cost": "22,209,701 (15,460,072-35,293,887)"
+    },
+    "Per Capita": {
+      "incidence": 31.7,
+      "incidence_number": "31.6642361"
     }
   },
   "Denmark": {
@@ -1124,6 +1316,10 @@
       "incidence_number": 9558,
       "daly_number": 4237,
       "cost": "362,914,352 (243,498,996-536,723,843)"
+    },
+    "Per Capita": {
+      "incidence": 33,
+      "incidence_number": "32.97111281"
     }
   },
   "Djibouti": {
@@ -1147,6 +1343,10 @@
       "incidence_number": 4305,
       "daly_number": 3752,
       "cost": "23,649,525 (17,345,105-34,204,274)"
+    },
+    "Per Capita": {
+      "incidence": 25.9,
+      "incidence_number": "25.86551019"
     }
   },
   "Dominica": {
@@ -1170,6 +1370,10 @@
       "incidence_number": 191,
       "daly_number": 113,
       "cost": "3,140,146 (2,437,863-3,931,254)"
+    },
+    "Per Capita": {
+      "incidence": 5.4,
+      "incidence_number": "5.420804658"
     }
   },
   "Dominican Republic": {
@@ -1193,6 +1397,10 @@
       "incidence_number": 41218,
       "daly_number": 20239,
       "cost": "516,001,358 (411,681,703-642,435,480)"
+    },
+    "Per Capita": {
+      "incidence": 31.7,
+      "incidence_number": "31.74012683"
     }
   },
   "Ecuador": {
@@ -1216,6 +1424,10 @@
       "incidence_number": 52796,
       "daly_number": 21846,
       "cost": "334,510,387 (260,110,856-426,861,062)"
+    },
+    "Per Capita": {
+      "incidence": 19.8,
+      "incidence_number": "19.76050014"
     }
   },
   "Egypt": {
@@ -1239,6 +1451,10 @@
       "incidence_number": 86313,
       "daly_number": 118160,
       "cost": "993,816,937 (804,179,717-1,303,479,279)"
+    },
+    "Per Capita": {
+      "incidence": 25.3,
+      "incidence_number": "25.30323995"
     }
   },
   "El Salvador": {
@@ -1262,6 +1478,10 @@
       "incidence_number": 20404,
       "daly_number": 8766,
       "cost": "102,284,639 (77,456,762-134,815,999)"
+    },
+    "Per Capita": {
+      "incidence": 26.5,
+      "incidence_number": "26.52155127"
     }
   },
   "Equatorial Guinea": {
@@ -1285,6 +1505,10 @@
       "incidence_number": 6163,
       "daly_number": 6969,
       "cost": "31,169,932 (20,497,071-46,942,423)"
+    },
+    "Per Capita": {
+      "incidence": 20.7,
+      "incidence_number": "20.7131857"
     }
   },
   "Eritrea": {
@@ -1308,6 +1532,10 @@
       "incidence_number": 14256,
       "daly_number": 27715,
       "cost": "38,818,949 (28,318,734-51,586,158)"
+    },
+    "Per Capita": {
+      "incidence": 20.4,
+      "incidence_number": "20.35155107"
     }
   },
   "Estonia": {
@@ -1331,6 +1559,10 @@
       "incidence_number": 2824,
       "daly_number": 1777,
       "cost": "111,686,812 (91,909,875-138,104,574)"
+    },
+    "Per Capita": {
+      "incidence": 16.8,
+      "incidence_number": "16.79162241"
     }
   },
   "Eswatini": {
@@ -1354,6 +1586,10 @@
       "incidence_number": 3083,
       "daly_number": 6056,
       "cost": "46,390,232 (33,339,496-62,192,245)"
+    },
+    "Per Capita": {
+      "incidence": 23.1,
+      "incidence_number": "23.07500717"
     }
   },
   "Ethiopia": {
@@ -1377,6 +1613,10 @@
       "incidence_number": 453893,
       "daly_number": 736114,
       "cost": "670,333,278 (538,083,122-887,931,642)"
+    },
+    "Per Capita": {
+      "incidence": 16.3,
+      "incidence_number": "16.30785615"
     }
   },
   "Fiji": {
@@ -1400,6 +1640,10 @@
       "incidence_number": 1654,
       "daly_number": 2114,
       "cost": "31,109,318 (24,923,431-39,007,130)"
+    },
+    "Per Capita": {
+      "incidence": 21.4,
+      "incidence_number": "21.35190929"
     }
   },
   "Finland": {
@@ -1423,6 +1667,10 @@
       "incidence_number": 10952,
       "daly_number": 5428,
       "cost": "358,082,188 (244,795,812-522,268,538)"
+    },
+    "Per Capita": {
+      "incidence": 13.9,
+      "incidence_number": "13.92826512"
     }
   },
   "France": {
@@ -1446,6 +1694,10 @@
       "incidence_number": 100316,
       "daly_number": 42297,
       "cost": "2,859,783,004 (1,895,539,288-4,282,448,665)"
+    },
+    "Per Capita": {
+      "incidence": 28.1,
+      "incidence_number": "28.07346869"
     }
   },
   "Gabon": {
@@ -1469,6 +1721,10 @@
       "incidence_number": 8629,
       "daly_number": 9523,
       "cost": "58,761,858 (43,273,498-80,143,611)"
+    },
+    "Per Capita": {
+      "incidence": 14,
+      "incidence_number": "13.95486495"
     }
   },
   "Gambia": {
@@ -1492,6 +1748,10 @@
       "incidence_number": 5940,
       "daly_number": 9566,
       "cost": "15,169,587 (9,552,887-23,306,421)"
+    },
+    "Per Capita": {
+      "incidence": 17.2,
+      "incidence_number": "17.16889526"
     }
   },
   "Georgia": {
@@ -1515,6 +1775,10 @@
       "incidence_number": 9315,
       "daly_number": 7213,
       "cost": "193,635,423 (157,664,235-237,748,580)"
+    },
+    "Per Capita": {
+      "incidence": 15.5,
+      "incidence_number": "15.47002022"
     }
   },
   "Germany": {
@@ -1538,6 +1802,10 @@
       "incidence_number": 93277,
       "daly_number": 41039,
       "cost": "3,998,787,328 (2,548,108,556-6,076,274,159)"
+    },
+    "Per Capita": {
+      "incidence": 1.4,
+      "incidence_number": "1.3954864949267"
     }
   },
   "Ghana": {
@@ -1561,6 +1829,10 @@
       "incidence_number": 85882,
       "daly_number": 129259,
       "cost": "469,056,083 (354,832,212-653,946,085)"
+    },
+    "Per Capita": {
+      "incidence": 38.6,
+      "incidence_number": "38.60961304"
     }
   },
   "Greece": {
@@ -1584,6 +1856,10 @@
       "incidence_number": 12284,
       "daly_number": 6433,
       "cost": "354,492,680 (254,368,211-502,246,923)"
+    },
+    "Per Capita": {
+      "incidence": 7.7,
+      "incidence_number": "7.679595186"
     }
   },
   "Grenada": {
@@ -1607,6 +1883,10 @@
       "incidence_number": 411,
       "daly_number": 234,
       "cost": "3,812,811 (2,993,014-4,822,784)"
+    },
+    "Per Capita": {
+      "incidence": 34.6,
+      "incidence_number": "34.55615957"
     }
   },
   "Guam": {
@@ -1630,6 +1910,10 @@
       "incidence_number": 136,
       "daly_number": 76,
       "cost": "2,992,325 (2,223,432-3,910,981)"
+    },
+    "Per Capita": {
+      "incidence": 13.8,
+      "incidence_number": "13.83266145"
     }
   },
   "Guatemala": {
@@ -1653,6 +1937,10 @@
       "incidence_number": 83804,
       "daly_number": 37860,
       "cost": "417,369,628 (327,477,136-521,999,480)"
+    },
+    "Per Capita": {
+      "incidence": 12.5,
+      "incidence_number": "12.54957504"
     }
   },
   "Guinea": {
@@ -1676,6 +1964,10 @@
       "incidence_number": 32167,
       "daly_number": 79619,
       "cost": "164,547,832 (74,581,116-240,846,387)"
+    },
+    "Per Capita": {
+      "incidence": 34.8,
+      "incidence_number": "34.81529966"
     }
   },
   "Guinea-Bissau": {
@@ -1699,6 +1991,10 @@
       "incidence_number": 4286,
       "daly_number": 10397,
       "cost": "14,324,722 (7,109,320-20,774,386)"
+    },
+    "Per Capita": {
+      "incidence": 29.5,
+      "incidence_number": "29.49150887"
     }
   },
   "Guyana": {
@@ -1722,6 +2018,10 @@
       "incidence_number": 3186,
       "daly_number": 2118,
       "cost": "126,434,053 (101,698,432-154,599,229)"
+    },
+    "Per Capita": {
+      "incidence": 34,
+      "incidence_number": "34.03936432"
     }
   },
   "Haiti": {
@@ -1745,6 +2045,10 @@
       "incidence_number": 42925,
       "daly_number": 56173,
       "cost": "173,248,773 (135,160,851-218,177,089)"
+    },
+    "Per Capita": {
+      "incidence": 22,
+      "incidence_number": "21.99862535"
     }
   },
   "Honduras": {
@@ -1768,6 +2072,10 @@
       "incidence_number": 49707,
       "daly_number": 23428,
       "cost": "125,152,688 (94,647,610-160,720,486)"
+    },
+    "Per Capita": {
+      "incidence": 17.1,
+      "incidence_number": "17.0949662"
     }
   },
   "Hungary": {
@@ -1791,6 +2099,10 @@
       "incidence_number": 17433,
       "daly_number": 9057,
       "cost": "465,270,792 (351,715,380-627,070,413)"
+    },
+    "Per Capita": {
+      "incidence": 7.5,
+      "incidence_number": "7.46910881"
     }
   },
   "Iceland": {
@@ -1814,6 +2126,10 @@
       "incidence_number": 692,
       "daly_number": 253,
       "cost": "16,440,600 (10,693,277-24,851,852)"
+    },
+    "Per Capita": {
+      "incidence": 10,
+      "incidence_number": "10.03953546"
     }
   },
   "India": {
@@ -1837,6 +2153,10 @@
       "incidence_number": 1215211,
       "daly_number": 2272924,
       "cost": "17,393,529,262 (13,251,588,458-20,160,957,725)"
+    },
+    "Per Capita": {
+      "incidence": 7.4,
+      "incidence_number": "7.447348189"
     }
   },
   "Indonesia": {
@@ -1860,6 +2180,10 @@
       "incidence_number": 312706,
       "daly_number": 217399,
       "cost": "2,788,126,396 (2,110,275,013-3,402,688,416)"
+    },
+    "Per Capita": {
+      "incidence": 10.1,
+      "incidence_number": "10.09985864"
     }
   },
   "Iran (Islamic Republic of)": {
@@ -1883,6 +2207,10 @@
       "incidence_number": 72232,
       "daly_number": 132641,
       "cost": "1,485,083,975 (1,294,252,327-1,946,319,641)"
+    },
+    "Per Capita": {
+      "incidence": 19.4,
+      "incidence_number": "19.36472155"
     }
   },
   "Iraq": {
@@ -1906,6 +2234,10 @@
       "incidence_number": 71837,
       "daly_number": 181877,
       "cost": "910,093,568 (735,289,513-1,164,384,992)"
+    },
+    "Per Capita": {
+      "incidence": 18.7,
+      "incidence_number": "18.70162883"
     }
   },
   "Ireland": {
@@ -1929,6 +2261,10 @@
       "incidence_number": 10706,
       "daly_number": 4176,
       "cost": "440,739,154 (294,751,761-665,585,081)"
+    },
+    "Per Capita": {
+      "incidence": 10.4,
+      "incidence_number": "10.39250095"
     }
   },
   "Israel": {
@@ -1952,6 +2288,10 @@
       "incidence_number": 24550,
       "daly_number": 7129,
       "cost": "270,813,487 (171,065,803-263,261,266)"
+    },
+    "Per Capita": {
+      "incidence": 27.5,
+      "incidence_number": "27.49648792"
     }
   },
   "Italy": {
@@ -1975,6 +2315,10 @@
       "incidence_number": 44883,
       "daly_number": 23022,
       "cost": "1,919,200,152 (1,252,528,390-2,873,355,640)"
+    },
+    "Per Capita": {
+      "incidence": 18.7,
+      "incidence_number": "18.74427101"
     }
   },
   "Jamaica": {
@@ -1998,6 +2342,10 @@
       "incidence_number": 6493,
       "daly_number": 2802,
       "cost": "36,929,966 (26,890,907-49,469,664)"
+    },
+    "Per Capita": {
+      "incidence": 7.5,
+      "incidence_number": "7.541422479"
     }
   },
   "Japan": {
@@ -2021,6 +2369,10 @@
       "incidence_number": 166142,
       "daly_number": 84336,
       "cost": "5,952,739,202 (3,934,713,871-9,051,287,327)"
+    },
+    "Per Capita": {
+      "incidence": 24.4,
+      "incidence_number": "24.3598663"
     }
   },
   "Jordan": {
@@ -2044,6 +2396,10 @@
       "incidence_number": 12013,
       "daly_number": 15826,
       "cost": "113,463,214 (92,658,034-140,819,725)"
+    },
+    "Per Capita": {
+      "incidence": 20,
+      "incidence_number": "19.97045588"
     }
   },
   "Kazakhstan": {
@@ -2067,6 +2423,10 @@
       "incidence_number": 62435,
       "daly_number": 48151,
       "cost": "1,143,013,671 (962,278,838-1,385,958,598)"
+    },
+    "Per Capita": {
+      "incidence": 6.1,
+      "incidence_number": "6.094183875"
     }
   },
   "Kenya": {
@@ -2090,6 +2450,10 @@
       "incidence_number": 165528,
       "daly_number": 283275,
       "cost": "488,292,837 (394,428,340-659,494,416)"
+    },
+    "Per Capita": {
+      "incidence": 5.9,
+      "incidence_number": "5.853424918"
     }
   },
   "Kiribati": {
@@ -2113,6 +2477,10 @@
       "incidence_number": 110,
       "daly_number": 54,
       "cost": "283,043 (202,591-360,458)"
+    },
+    "Per Capita": {
+      "incidence": 19.9,
+      "incidence_number": "19.88788811"
     }
   },
   "Kuwait": {
@@ -2136,6 +2504,10 @@
       "incidence_number": 3681,
       "daly_number": 2181,
       "cost": "89,293,033 (71,865,896-110,820,065)"
+    },
+    "Per Capita": {
+      "incidence": 8.2,
+      "incidence_number": "8.236474778"
     }
   },
   "Kyrgyzstan": {
@@ -2159,6 +2531,10 @@
       "incidence_number": 18854,
       "daly_number": 8754,
       "cost": "58,578,349 (48,574,528-72,426,121)"
+    },
+    "Per Capita": {
+      "incidence": 29.6,
+      "incidence_number": "29.55949536"
     }
   },
   "Lao People's Democratic Republic": {
@@ -2182,6 +2558,10 @@
       "incidence_number": 7919,
       "daly_number": 9661,
       "cost": "60,055,513 (45,150,378-85,616,584)"
+    },
+    "Per Capita": {
+      "incidence": 6.7,
+      "incidence_number": "6.69703656"
     }
   },
   "Latvia": {
@@ -2205,6 +2585,10 @@
       "incidence_number": 4012,
       "daly_number": 3457,
       "cost": "195,000,481 (165,570,138-236,282,361)"
+    },
+    "Per Capita": {
+      "incidence": 23.3,
+      "incidence_number": "23.2923953"
     }
   },
   "Lebanon": {
@@ -2228,6 +2612,10 @@
       "incidence_number": 4467,
       "daly_number": 6056,
       "cost": "18,153,385 (14,953,646-22,100,004)"
+    },
+    "Per Capita": {
+      "incidence": 12.4,
+      "incidence_number": "12.3639078"
     }
   },
   "Lesotho": {
@@ -2251,6 +2639,10 @@
       "incidence_number": 6920,
       "daly_number": 10129,
       "cost": "23,147,559 (17,510,885-29,123,659)"
+    },
+    "Per Capita": {
+      "incidence": 10.1,
+      "incidence_number": "10.10685652"
     }
   },
   "Liberia": {
@@ -2274,6 +2666,10 @@
       "incidence_number": 10955,
       "daly_number": 25504,
       "cost": "18,593,272 (8,624,174-33,315,988)"
+    },
+    "Per Capita": {
+      "incidence": 21.9,
+      "incidence_number": "21.86936599"
     }
   },
   "Libya": {
@@ -2297,6 +2693,10 @@
       "incidence_number": 9074,
       "daly_number": 18705,
       "cost": "160,852,569 (101,240,959-238,345,695)"
+    },
+    "Per Capita": {
+      "incidence": 15.2,
+      "incidence_number": "15.18878077"
     }
   },
   "Lithuania": {
@@ -2320,6 +2720,10 @@
       "incidence_number": 4460,
       "daly_number": 2865,
       "cost": "185,752,391 (149,863,120-239,307,155)"
+    },
+    "Per Capita": {
+      "incidence": 26.2,
+      "incidence_number": "26.15832596"
     }
   },
   "Luxembourg": {
@@ -2343,6 +2747,10 @@
       "incidence_number": 1090,
       "daly_number": 391,
       "cost": "53,365,891 (32,799,028-83,803,823)"
+    },
+    "Per Capita": {
+      "incidence": 25,
+      "incidence_number": "24.98195337"
     }
   },
   "Madagascar": {
@@ -2366,6 +2774,10 @@
       "incidence_number": 138137,
       "daly_number": 262724,
       "cost": "126,589,244 (96,524,340-175,509,353)"
+    },
+    "Per Capita": {
+      "incidence": 10.5,
+      "incidence_number": "10.53246689"
     }
   },
   "Malawi": {
@@ -2389,6 +2801,10 @@
       "incidence_number": 92784,
       "daly_number": 145177,
       "cost": "81,412,137 (60,532,526-120,130,345)"
+    },
+    "Per Capita": {
+      "incidence": 20.4,
+      "incidence_number": "20.43405446"
     }
   },
   "Malaysia": {
@@ -2412,6 +2828,10 @@
       "incidence_number": 44797,
       "daly_number": 22547,
       "cost": "699,405,153 (562,317,486-865,679,336)"
+    },
+    "Per Capita": {
+      "incidence": 11.3,
+      "incidence_number": "11.32097445"
     }
   },
   "Maldives": {
@@ -2435,6 +2855,10 @@
       "incidence_number": 1156,
       "daly_number": 360,
       "cost": "7,185,112 (5,324,202-10,027,570)"
+    },
+    "Per Capita": {
+      "incidence": 22.3,
+      "incidence_number": "22.28670578"
     }
   },
   "Mali": {
@@ -2458,6 +2882,10 @@
       "incidence_number": 52098,
       "daly_number": 152884,
       "cost": "213,724,235 (98,616,236-307,922,703)"
+    },
+    "Per Capita": {
+      "incidence": 6.8,
+      "incidence_number": "6.774192549"
     }
   },
   "Malta": {
@@ -2481,6 +2909,10 @@
       "incidence_number": 1119,
       "daly_number": 416,
       "cost": "22,359,519 (13,499,108-35,901,740)"
+    },
+    "Per Capita": {
+      "incidence": 13.4,
+      "incidence_number": "13.38076474"
     }
   },
   "Marshall Islands": {
@@ -2504,6 +2936,10 @@
       "incidence_number": 17,
       "daly_number": 15,
       "cost": "454,832 (330,057-643,635)"
+    },
+    "Per Capita": {
+      "incidence": 14.7,
+      "incidence_number": "14.67967983"
     }
   },
   "Mauritania": {
@@ -2527,6 +2963,10 @@
       "incidence_number": 12516,
       "daly_number": 14949,
       "cost": "39,671,558 (20,853,549-59,392,887)"
+    },
+    "Per Capita": {
+      "incidence": 30.9,
+      "incidence_number": "30.92429585"
     }
   },
   "Mauritius": {
@@ -2550,6 +2990,10 @@
       "incidence_number": 1505,
       "daly_number": 1083,
       "cost": "40,927,920 (34,027,472-49,921,201)"
+    },
+    "Per Capita": {
+      "incidence": 8.3,
+      "incidence_number": "8.276774553"
     }
   },
   "Mexico": {
@@ -2573,6 +3017,10 @@
       "incidence_number": 440479,
       "daly_number": 195250,
       "cost": "4,399,897,071 (3,362,065,207-5,642,647,789)"
+    },
+    "Per Capita": {
+      "incidence": 13.6,
+      "incidence_number": "13.60517708"
     }
   },
   "Micronesia (Federated States of)": {
@@ -2596,6 +3044,10 @@
       "incidence_number": 103,
       "daly_number": 109,
       "cost": "390,680 (294,977-546,057)"
+    },
+    "Per Capita": {
+      "incidence": 20.8,
+      "incidence_number": "20.78829099"
     }
   },
   "Moldova": {
@@ -2619,6 +3071,10 @@
       "incidence_number": 3656,
       "daly_number": 2286,
       "cost": "92,582,340 (74,809,329-114,663,517)"
+    },
+    "Per Capita": {
+      "incidence": 26.3,
+      "incidence_number": "26.26983452"
     }
   },
   "Monaco": {
@@ -2642,6 +3098,10 @@
       "incidence_number": 42,
       "daly_number": 7218,
       "cost": "6,758,330 (4,369,566-10,211,904)"
+    },
+    "Per Capita": {
+      "incidence": 5.2,
+      "incidence_number": "5.222387982"
     }
   },
   "Mongolia": {
@@ -2665,6 +3125,10 @@
       "incidence_number": 9198,
       "daly_number": 585,
       "cost": "121,414,582 (100,389,700-147,687,521)"
+    },
+    "Per Capita": {
+      "incidence": 25.5,
+      "incidence_number": "25.49814782"
     }
   },
   "Montenegro": {
@@ -2688,6 +3152,10 @@
       "incidence_number": 1248,
       "daly_number": 42751,
       "cost": "23,305,331 (17,161,141-31,564,121)"
+    },
+    "Per Capita": {
+      "incidence": 7,
+      "incidence_number": "6.96602231"
     }
   },
   "Morocco": {
@@ -2711,6 +3179,10 @@
       "incidence_number": 21864,
       "daly_number": 193308,
       "cost": "485,199,470 (295,623,649-675,931,519)"
+    },
+    "Per Capita": {
+      "incidence": 25.3,
+      "incidence_number": "25.31956866"
     }
   },
   "Mozambique": {
@@ -2734,6 +3206,10 @@
       "incidence_number": 161424,
       "daly_number": 39355,
       "cost": "147,179,632 (106,587,124-215,912,795)"
+    },
+    "Per Capita": {
+      "incidence": 8.7,
+      "incidence_number": "8.72307728"
     }
   },
   "Myanmar": {
@@ -2757,6 +3233,10 @@
       "incidence_number": 39962,
       "daly_number": 17773,
       "cost": "169,066,499 (126,928,370-253,197,079)"
+    },
+    "Per Capita": {
+      "incidence": 4.8,
+      "incidence_number": "4.775721457"
     }
   },
   "Namibia": {
@@ -2780,6 +3260,10 @@
       "incidence_number": 11299,
       "daly_number": 12,
       "cost": "72,851,810 (53,062,890-98,703,621)"
+    },
+    "Per Capita": {
+      "incidence": 11.9,
+      "incidence_number": "11.90787581"
     }
   },
   "Nauru": {
@@ -2803,6 +3287,10 @@
       "incidence_number": 14,
       "daly_number": 39005,
       "cost": "164,185 (117,050-240,260)"
+    },
+    "Per Capita": {
+      "incidence": 25.7,
+      "incidence_number": "25.67582791"
     }
   },
   "Nepal": {
@@ -2826,6 +3314,10 @@
       "incidence_number": 16238,
       "daly_number": 8103,
       "cost": "137,179,646 (103,353,373-180,600,704)"
+    },
+    "Per Capita": {
+      "incidence": 32.1,
+      "incidence_number": "32.05973064"
     }
   },
   "Netherlands": {
@@ -2849,6 +3341,10 @@
       "incidence_number": 19766,
       "daly_number": 4192,
       "cost": "852,356,506 (521,151,410-1,318,525,894)"
+    },
+    "Per Capita": {
+      "incidence": 12.8,
+      "incidence_number": "12.75232922"
     }
   },
   "New Zealand": {
@@ -2872,6 +3368,10 @@
       "incidence_number": 13652,
       "daly_number": 9956,
       "cost": "244,053,363 (148,798,837-379,663,908)"
+    },
+    "Per Capita": {
+      "incidence": 11.7,
+      "incidence_number": "11.66362282"
     }
   },
   "Nicaragua": {
@@ -2895,6 +3395,10 @@
       "incidence_number": 27356,
       "daly_number": 220817,
       "cost": "70,295,866 (51,427,119-93,120,847)"
+    },
+    "Per Capita": {
+      "incidence": 20.5,
+      "incidence_number": "20.45694556"
     }
   },
   "Niger": {
@@ -2918,6 +3422,10 @@
       "incidence_number": 66709,
       "daly_number": 774092,
       "cost": "143,262,614 (61,577,249-238,068,963)"
+    },
+    "Per Capita": {
+      "incidence": 8.3,
+      "incidence_number": "8.264309014"
     }
   },
   "Nigeria": {
@@ -2941,6 +3449,10 @@
       "incidence_number": 416929,
       "daly_number": 1578,
       "cost": "3,133,745,408 (1,246,146,833-4,311,574,520)"
+    },
+    "Per Capita": {
+      "incidence": 21.1,
+      "incidence_number": "21.14420885"
     }
   },
   "North Macedonia": {
@@ -2964,6 +3476,10 @@
       "incidence_number": 2788,
       "daly_number": 21,
       "cost": "59,767,643 (78,274,875-46,256,381)"
+    },
+    "Per Capita": {
+      "incidence": 5.3,
+      "incidence_number": "5.298010739"
     }
   },
   "Northern Mariana Islands": {
@@ -2987,6 +3503,10 @@
       "incidence_number": 32,
       "daly_number": 4467,
       "cost": "650,778 (488,321-881,024)"
+    },
+    "Per Capita": {
+      "incidence": 5.8,
+      "incidence_number": "5.760948448"
     }
   },
   "Norway": {
@@ -3010,6 +3530,10 @@
       "incidence_number": 11101,
       "daly_number": 3178,
       "cost": "414,032,548 (264,968,505-628,991,422)"
+    },
+    "Per Capita": {
+      "incidence": 21.1,
+      "incidence_number": "21.13073234"
     }
   },
   "Oman": {
@@ -3033,6 +3557,10 @@
       "incidence_number": 4102,
       "daly_number": 473124,
       "cost": "62,215,037 (49,374,970-78,493,232)"
+    },
+    "Per Capita": {
+      "incidence": 32,
+      "incidence_number": "32.03876741"
     }
   },
   "Pakistan": {
@@ -3056,6 +3584,10 @@
       "incidence_number": 212277,
       "daly_number": 49,
       "cost": "2,060,832,562 (1,761,866,859-2,576,796,209)"
+    },
+    "Per Capita": {
+      "incidence": 7.5,
+      "incidence_number": "7.539719617"
     }
   },
   "Palau": {
@@ -3079,6 +3611,10 @@
       "incidence_number": 31,
       "daly_number": 5536,
       "cost": "945,309 (763,506-1,172,871)"
+    },
+    "Per Capita": {
+      "incidence": 22.8,
+      "incidence_number": "22.75242743"
     }
   },
   "Panama": {
@@ -3102,6 +3638,10 @@
       "incidence_number": 17025,
       "daly_number": 44895,
       "cost": "200,083,534 (145,283,506-271,674,434)"
+    },
+    "Per Capita": {
+      "incidence": 23.7,
+      "incidence_number": "23.72752207"
     }
   },
   "Papua New Guinea": {
@@ -3125,6 +3665,10 @@
       "incidence_number": 11134,
       "daly_number": 9310,
       "cost": "157,153,795 (105,197,548-226,463,141)"
+    },
+    "Per Capita": {
+      "incidence": 10.1,
+      "incidence_number": "10.06289479"
     }
   },
   "Paraguay": {
@@ -3148,6 +3692,10 @@
       "incidence_number": 19129,
       "daly_number": 37185,
       "cost": "122,381,508 (94,825,311-155,444,054)"
+    },
+    "Per Capita": {
+      "incidence": 24.8,
+      "incidence_number": "24.81181982"
     }
   },
   "Peru": {
@@ -3171,6 +3719,10 @@
       "incidence_number": 91578,
       "daly_number": 82188,
       "cost": "571,306,183 (431,097,706-752,524,850)"
+    },
+    "Per Capita": {
+      "incidence": 12.8,
+      "incidence_number": "12.84613892"
     }
   },
   "Philippines": {
@@ -3194,6 +3746,10 @@
       "incidence_number": 132653,
       "daly_number": 35233,
       "cost": "811,792,897 (673,525,830-979,130,160)"
+    },
+    "Per Capita": {
+      "incidence": 21.3,
+      "incidence_number": "21.28568639"
     }
   },
   "Poland": {
@@ -3217,6 +3773,10 @@
       "incidence_number": 69763,
       "daly_number": 6070,
       "cost": "2,211,685,499 (1,725,300,444-2,879,385,727)"
+    },
+    "Per Capita": {
+      "incidence": 6.9,
+      "incidence_number": "6.885136186"
     }
   },
   "Portugal": {
@@ -3240,6 +3800,10 @@
       "incidence_number": 11128,
       "daly_number": 1875,
       "cost": "372,589,225 (259,576,552-533,238,183)"
+    },
+    "Per Capita": {
+      "incidence": 21.6,
+      "incidence_number": "21.64900933"
     }
   },
   "Puerto Rico": {
@@ -3263,6 +3827,10 @@
       "incidence_number": 4359,
       "daly_number": 1759,
       "cost": "146,356,758 (93,168,857-219,717,704)"
+    },
+    "Per Capita": {
+      "incidence": 26.6,
+      "incidence_number": "26.5611161"
     }
   },
   "Qatar": {
@@ -3286,6 +3854,10 @@
       "incidence_number": 2689,
       "daly_number": 33220,
       "cost": "205,879,783 (159,983,273-275,502,647)"
+    },
+    "Per Capita": {
+      "incidence": 22.7,
+      "incidence_number": "22.66605094"
     }
   },
   "Republic of Korea": {
@@ -3309,6 +3881,10 @@
       "incidence_number": 68895,
       "daly_number": 2286,
       "cost": "2,330,742,069 (1,543,853,950-3,497,820,436)"
+    },
+    "Per Capita": {
+      "incidence": 26.9,
+      "incidence_number": "26.85015396"
     }
   },
   "Romania": {
@@ -3332,6 +3908,10 @@
       "incidence_number": 39098,
       "daly_number": 212704,
       "cost": "1,302,573,655 (1,005,200,471-1,681,457,401)"
+    },
+    "Per Capita": {
+      "incidence": 41.3,
+      "incidence_number": "41.2826246"
     }
   },
   "Russian Federation": {
@@ -3355,6 +3935,10 @@
       "incidence_number": 288369,
       "daly_number": 131059,
       "cost": "11,829,944,297 (9,986,453,442-14,285,057,306)"
+    },
+    "Per Capita": {
+      "incidence": 8.3,
+      "incidence_number": "8.257575754"
     }
   },
   "Rwanda": {
@@ -3378,6 +3962,10 @@
       "incidence_number": 60454,
       "daly_number": 110,
       "cost": "112,460,915 (83,784,354-165,227,303)"
+    },
+    "Per Capita": {
+      "incidence": 13.2,
+      "incidence_number": "13.20355133"
     }
   },
   "Saint Kitts and Nevis": {
@@ -3401,6 +3989,10 @@
       "incidence_number": 174,
       "daly_number": 265,
       "cost": "5,355,180 (4,237,296-6,770,574)"
+    },
+    "Per Capita": {
+      "incidence": 15.2,
+      "incidence_number": "15.21211307"
     }
   },
   "Samoa": {
@@ -3424,6 +4016,10 @@
       "incidence_number": 221,
       "daly_number": 16,
       "cost": "1,112,190 (834,593-1,541,360)"
+    },
+    "Per Capita": {
+      "incidence": 9.8,
+      "incidence_number": "9.786509182"
     }
   },
   "San Marino": {
@@ -3447,6 +4043,10 @@
       "incidence_number": 38,
       "daly_number": 180,
       "cost": "1,314,547 (733,595-2,155,220)"
+    },
+    "Per Capita": {
+      "incidence": 13.9,
+      "incidence_number": "13.86261029"
     }
   },
   "Sao Tome and Principe": {
@@ -3470,6 +4070,10 @@
       "incidence_number": 550,
       "daly_number": 65269,
       "cost": "485,029 (339,570-647,931)"
+    },
+    "Per Capita": {
+      "incidence": 20.7,
+      "incidence_number": "20.68588133"
     }
   },
   "Saudi Arabia": {
@@ -3493,6 +4097,10 @@
       "incidence_number": 47378,
       "daly_number": 63928,
       "cost": "5,106,305,876 (3,624,116,950-6,789,891,430)"
+    },
+    "Per Capita": {
+      "incidence": 18.1,
+      "incidence_number": "18.07637504"
     }
   },
   "Senegal": {
@@ -3516,6 +4124,10 @@
       "incidence_number": 41778,
       "daly_number": 4805,
       "cost": "136,323,702 (71,647,655-209,578,475)"
+    },
+    "Per Capita": {
+      "incidence": 15.3,
+      "incidence_number": "15.32919464"
     }
   },
   "Serbia": {
@@ -3539,6 +4151,10 @@
       "incidence_number": 10149,
       "daly_number": 161,
       "cost": "243,204,084 (173,383,279-338,495,417)"
+    },
+    "Per Capita": {
+      "incidence": 25.7,
+      "incidence_number": "25.69854928"
     }
   },
   "Seychelles": {
@@ -3562,6 +4178,10 @@
       "incidence_number": 228,
       "daly_number": 59702,
       "cost": "3,285,634 (2,635,487-4,207,339)"
+    },
+    "Per Capita": {
+      "incidence": 23.8,
+      "incidence_number": "23.80338257"
     }
   },
   "Sierra Leone": {
@@ -3585,6 +4205,10 @@
       "incidence_number": 19726,
       "daly_number": 4941,
       "cost": "76,844,196 (34,021,826-116,889,306)"
+    },
+    "Per Capita": {
+      "incidence": 24.9,
+      "incidence_number": "24.89830419"
     }
   },
   "Singapore": {
@@ -3608,6 +4232,10 @@
       "incidence_number": 14496,
       "daly_number": 4985,
       "cost": "638,277,682 (359,823,445-1,068,363,027)"
+    },
+    "Per Capita": {
+      "incidence": 7.4,
+      "incidence_number": "7.353207018"
     }
   },
   "Slovakia": {
@@ -3631,6 +4259,10 @@
       "incidence_number": 10547,
       "daly_number": 1532,
       "cost": "243,301,949 (174,851,573-336,576,976)"
+    },
+    "Per Capita": {
+      "incidence": 23.9,
+      "incidence_number": "23.87137853"
     }
   },
   "Slovenia": {
@@ -3654,6 +4286,10 @@
       "incidence_number": 4353,
       "daly_number": 1407,
       "cost": "95,237,718 (61,422,791-141,091,973)"
+    },
+    "Per Capita": {
+      "incidence": 21.8,
+      "incidence_number": "21.82942944"
     }
   },
   "Solomon Islands": {
@@ -3677,6 +4313,10 @@
       "incidence_number": 954,
       "daly_number": 185168,
       "cost": "2,098,333 (1,572,349-2,935,092)"
+    },
+    "Per Capita": {
+      "incidence": 23.7,
+      "incidence_number": "23.74052831"
     }
   },
   "Somalia": {
@@ -3700,6 +4340,10 @@
       "incidence_number": 88443,
       "daly_number": 223896,
       "cost": "138,003,353 (89,046,147-253,136,383)"
+    },
+    "Per Capita": {
+      "incidence": 11.9,
+      "incidence_number": "11.89438465"
     }
   },
   "South Africa": {
@@ -3723,6 +4367,10 @@
       "incidence_number": 168616,
       "daly_number": 105193,
       "cost": "2,312,412,371 (1,980,743,172-2,677,542,399)"
+    },
+    "Per Capita": {
+      "incidence": 11.4,
+      "incidence_number": "11.42322563"
     }
   },
   "South Sudan": {
@@ -3746,6 +4394,10 @@
       "incidence_number": 43246,
       "daly_number": 20763,
       "cost": "50,893,013 (35,850,648-70,668,816)"
+    },
+    "Per Capita": {
+      "incidence": 7.1,
+      "incidence_number": "7.092669547"
     }
   },
   "Spain": {
@@ -3769,6 +4421,10 @@
       "incidence_number": 46326,
       "daly_number": 15109,
       "cost": "1,275,705,653 (811,008,786-1,956,100,028)"
+    },
+    "Per Capita": {
+      "incidence": 34,
+      "incidence_number": "34.00969873"
     }
   },
   "Sri Lanka": {
@@ -3792,6 +4448,10 @@
       "incidence_number": 25205,
       "daly_number": 135848,
       "cost": "298,022,510 (231,844,128-379,270,395)"
+    },
+    "Per Capita": {
+      "incidence": 16.8,
+      "incidence_number": "16.76047576"
     }
   },
   "Sudan": {
@@ -3815,6 +4475,10 @@
       "incidence_number": 59951,
       "daly_number": 1518,
       "cost": "213,403,217 (122,630,293-303,639,037)"
+    },
+    "Per Capita": {
+      "incidence": 17.7,
+      "incidence_number": "17.73421173"
     }
   },
   "Suriname": {
@@ -3838,6 +4502,10 @@
       "incidence_number": 2401,
       "daly_number": 7061,
       "cost": "26,482,724 (21,052,543-32,569,169)"
+    },
+    "Per Capita": {
+      "incidence": 6.5,
+      "incidence_number": "6.498276266"
     }
   },
   "Sweden": {
@@ -3861,6 +4529,10 @@
       "incidence_number": 16959,
       "daly_number": 5542,
       "cost": "556,851,815 (351,612,142-857,795,799)"
+    },
+    "Per Capita": {
+      "incidence": 27.5,
+      "incidence_number": "27.53705026"
     }
   },
   "Switzerland": {
@@ -3884,6 +4556,10 @@
       "incidence_number": 14591,
       "daly_number": 29068,
       "cost": "505,442,671 (301,744,426-809,588,856)"
+    },
+    "Per Capita": {
+      "incidence": 6.3,
+      "incidence_number": "6.308009551"
     }
   },
   "Syrian Arab Republic": {
@@ -3907,6 +4583,10 @@
       "incidence_number": 24145,
       "daly_number": 29039,
       "cost": "45,213,992 (34,696,489-60,968,298)"
+    },
+    "Per Capita": {
+      "incidence": 7.9,
+      "incidence_number": "7.916188031"
     }
   },
   "Tajikistan": {
@@ -3930,6 +4610,10 @@
       "incidence_number": 42312,
       "daly_number": 31551,
       "cost": "148,096,227 (118,156,829-190,124,154)"
+    },
+    "Per Capita": {
+      "incidence": 12.6,
+      "incidence_number": "12.61485491"
     }
   },
   "United Republic of Tanzania": {
@@ -3953,6 +4637,10 @@
       "incidence_number": 342033,
       "daly_number": 101,
       "cost": "560,826,492 (424,497,863-810,320,741)"
+    },
+    "Per Capita": {
+      "incidence": 18.3,
+      "incidence_number": "18.309034"
     }
   },
   "Thailand": {
@@ -3976,6 +4664,10 @@
       "incidence_number": 37445,
       "daly_number": 1703,
       "cost": "886,351,528 (704,825,772-1,105,922,785)"
+    },
+    "Per Capita": {
+      "incidence": 27.9,
+      "incidence_number": "27.8930556"
     }
   },
   "Timor-Leste": {
@@ -3999,6 +4691,10 @@
       "incidence_number": 1480,
       "daly_number": 36709,
       "cost": "5,179,034 (3,965,216-7,436,415)"
+    },
+    "Per Capita": {
+      "incidence": 6.7,
+      "incidence_number": "6.745103988"
     }
   },
   "Togo": {
@@ -4022,6 +4718,10 @@
       "incidence_number": 19555,
       "daly_number": 186,
       "cost": "49,472,451 (23,231,570-77,906,520)"
+    },
+    "Per Capita": {
+      "incidence": 5.2,
+      "incidence_number": "5.161199594"
     }
   },
   "Tonga": {
@@ -4045,6 +4745,10 @@
       "incidence_number": 188,
       "daly_number": 1993,
       "cost": "1,661,103 (1,296,733-2,176,718)"
+    },
+    "Per Capita": {
+      "incidence": 29.1,
+      "incidence_number": "29.06449015"
     }
   },
   "Trinidad and Tobago": {
@@ -4068,6 +4772,10 @@
       "incidence_number": 3359,
       "daly_number": 19889,
       "cost": "83,027,624 (65,198,966-106,109,244)"
+    },
+    "Per Capita": {
+      "incidence": 8.9,
+      "incidence_number": "8.899280042"
     }
   },
   "Tunisia": {
@@ -4091,6 +4799,10 @@
       "incidence_number": 8420,
       "daly_number": 28167,
       "cost": "155,768,868 (99,614,345-217,469,925)"
+    },
+    "Per Capita": {
+      "incidence": 22.2,
+      "incidence_number": "22.18896023"
     }
   },
   "Turkey": {
@@ -4114,6 +4826,10 @@
       "incidence_number": 43364,
       "daly_number": 22157,
       "cost": "1,161,775,948 (930,343,508-1,467,548,057)"
+    },
+    "Per Capita": {
+      "incidence": 19.2,
+      "incidence_number": "19.18017123"
     }
   },
   "Turkmenistan": {
@@ -4137,6 +4853,10 @@
       "incidence_number": 27524,
       "daly_number": 7,
       "cost": "225,062,729 (183,434,082-272,382,294)"
+    },
+    "Per Capita": {
+      "incidence": 5.3,
+      "incidence_number": "5.321201478"
     }
   },
   "Tuvalu": {
@@ -4160,6 +4880,10 @@
       "incidence_number": 9,
       "daly_number": 273470,
       "cost": "60,956 (45,025-85,130)"
+    },
+    "Per Capita": {
+      "incidence": 15.3,
+      "incidence_number": "15.29568695"
     }
   },
   "Uganda": {
@@ -4183,6 +4907,10 @@
       "incidence_number": 188104,
       "daly_number": 47470,
       "cost": "288,768,925 (222,932,346-382,092,301)"
+    },
+    "Per Capita": {
+      "incidence": 23.8,
+      "incidence_number": "23.78523366"
     }
   },
   "Ukraine": {
@@ -4206,6 +4934,10 @@
       "incidence_number": 55719,
       "daly_number": 6562,
       "cost": "1,578,637,653 (1,230,862,904-1,980,230,069)"
+    },
+    "Per Capita": {
+      "incidence": 14.3,
+      "incidence_number": "14.31627254"
     }
   },
   "United Arab Emirates": {
@@ -4229,6 +4961,10 @@
       "incidence_number": 7913,
       "daly_number": 42239,
       "cost": "468,811,302 (352,278,339-595,878,852)"
+    },
+    "Per Capita": {
+      "incidence": 41.1,
+      "incidence_number": "41.10571064"
     }
   },
   "United Kingdom": {
@@ -4252,6 +4988,10 @@
       "incidence_number": 104352,
       "daly_number": 451772,
       "cost": "2,382,273,030 (1,495,947,910-3,676,011,356)"
+    },
+    "Per Capita": {
+      "incidence": 22.3,
+      "incidence_number": "22.29216552"
     }
   },
   "United States Virgin Islands": {
@@ -4275,6 +5015,10 @@
       "incidence_number": 191,
       "daly_number": 262070,
       "cost": "5,729,681 (4,188,587-7,707,956)"
+    },
+    "Per Capita": {
+      "incidence": 6.2,
+      "incidence_number": "6.190894405"
     }
   },
   "United States of America": {
@@ -4298,6 +5042,10 @@
       "incidence_number": 488419,
       "daly_number": 4647,
       "cost": "20,640,184,757 (15,248,615,735-28,821,279,171)"
+    },
+    "Per Capita": {
+      "incidence": 13.2,
+      "incidence_number": "13.24028211"
     }
   },
   "Uruguay": {
@@ -4321,6 +5069,10 @@
       "incidence_number": 12343,
       "daly_number": 86340,
       "cost": "193,636,364 (130,262,715-283,459,220)"
+    },
+    "Per Capita": {
+      "incidence": 4.8,
+      "incidence_number": "4.812307614"
     }
   },
   "Uzbekistan": {
@@ -4344,6 +5096,10 @@
       "incidence_number": 114057,
       "daly_number": 390,
       "cost": "610,302,675 (505,742,808-740,089,019)"
+    },
+    "Per Capita": {
+      "incidence": 24.4,
+      "incidence_number": "24.38958468"
     }
   },
   "Vanuatu": {
@@ -4367,6 +5123,10 @@
       "incidence_number": 327,
       "daly_number": 53112,
       "cost": "930,610 (672,930-1,351,839)"
+    },
+    "Per Capita": {
+      "incidence": 23.5,
+      "incidence_number": "23.53218983"
     }
   },
   "Venezuela": {
@@ -4390,6 +5150,10 @@
       "incidence_number": 104583,
       "daly_number": 64261,
       "cost": "802,015,868 (613,662,370-1,045,837,014)"
+    },
+    "Per Capita": {
+      "incidence": 6.2,
+      "incidence_number": "6.19089441"
     }
   },
   "Viet Nam": {
@@ -4413,6 +5177,10 @@
       "incidence_number": 138212,
       "daly_number": 93717,
       "cost": "991,729,060 (759,495,916-1,285,068,359)"
+    },
+    "Per Capita": {
+      "incidence": 35.1,
+      "incidence_number": "35.06504005"
     }
   },
   "Yemen": {
@@ -4436,6 +5204,10 @@
       "incidence_number": 33956,
       "daly_number": 157442,
       "cost": "217,442,247 (118,285,648-312,542,056)"
+    },
+    "Per Capita": {
+      "incidence": 13.2,
+      "incidence_number": "13.24028211"
     }
   },
   "Zambia": {
@@ -4459,6 +5231,10 @@
       "incidence_number": 92471,
       "daly_number": 82197,
       "cost": "176,845,171 (131,901,075-230,357,464)"
+    },
+    "Per Capita": {
+      "incidence": 4.8,
+      "incidence_number": "4.81230761"
     }
   },
   "Zimbabwe": {
@@ -4482,6 +5258,10 @@
       "incidence_number": 60555,
       "daly_number": 82197,
       "cost": "222,507,536 (171,081,056-282,033,735)"
+    },
+    "Per Capita": {
+      "incidence": 24.4,
+      "incidence_number": "24.38958468"
     }
   }
 }

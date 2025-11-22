@@ -2,7 +2,7 @@
 import xlsx from "xlsx";
 import fs from "fs";
 
-const INPUT = "public/FinalBurnTables_Julia.xlsx";
+const INPUT = "public/FinalBurnTables_Juju.xlsx";
 const OUTPUT = "src/data/estimatedStats.json";
 
 const wb = xlsx.readFile(INPUT);
@@ -10,6 +10,7 @@ const sheet = wb.Sheets[wb.SheetNames[0]];
 const rows = xlsx.utils.sheet_to_json(sheet, { defval: null });
 
 const years = ["2030", "2040", "2050"];
+const per_capita = "Per Capita";
 const stats = {};
 
 function parseFirstNumber(value) {
@@ -43,6 +44,14 @@ for (const row of rows) {
       incidence_number: incidenceNum, // numeric-only value
       daly_number: dalyNum,
       cost: cost,
+    };
+
+    const perCapitaIncidenceCol = "Per Capita 10000";
+    const perCapitaIncidence = row[perCapitaIncidenceCol];
+
+    stats[country][per_capita] = {
+      incidence: Math.round(perCapitaIncidence * 10) / 10,
+      incidence_number: perCapitaIncidence,
     };
   }
 }
